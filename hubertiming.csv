@@ -1,0 +1,154 @@
+,Place,Bib,Name,Gender,Age,City,State,Chip Time,Chip Pace,Gender Place,Age Group,Age Group Place,Time to Start,Gun Time
+0,1,234,                    IAN SMITH                ,M,31,PORTLAND,OR,17:23,5:36,                    1 of 63                ,M 21-39,                    1 of 35                ,1:22,18:45
+1,2,230,                    ALEXA SHINDRUK                ,F,24,BELLINGHAM,WA,18:08,5:50,                    1 of 88                ,F 21-39,                    1 of 32                ,0:06,18:14
+2,3,252,                    ANTONIO VEAUDRY CASAUS                ,M,19,PORTLAND,OR,21:24,6:53,                    2 of 63                ,M 20 and Under,                    1 of 5                ,0:32,21:56
+3,4,104,                    LEIGH AMMON                ,F,42,PORTLAND,OR,22:06,7:07,                    2 of 88                ,F 40-54,                    1 of 31                ,0:04,22:10
+4,5,725,                    BRANDON WILLIAMS                ,M,35,PORTLAND,OR,22:25,7:13,                    3 of 63                ,M 21-39,                    2 of 35                ,0:05,22:30
+5,6,264,                    KATELYN WILLIAMS                ,F,31,PORTLAND,OR,22:25,7:13,                    3 of 88                ,F 21-39,                    2 of 32                ,0:05,22:30
+6,7,299,                    DOUGLAS STIDUM                ,M,30,,WA,22:52,7:22,                    4 of 63                ,M 21-39,                    3 of 35                ,0:38,23:30
+7,8,105,                    ADRIAN ANAYA                ,M,31,PORTLAND,OR,22:59,7:24,                    5 of 63                ,M 21-39,                    4 of 35                ,0:05,23:04
+8,9,152,                    BYRON FUENTES                ,M,57,HILLSBORO,OR,23:21,7:31,                    6 of 63                ,M 55+,                    1 of 11                ,0:21,23:42
+9,10,163,                    JESSE HEILIG                ,M,39,PORTLAND,OR,23:23,7:32,                    7 of 63                ,M 21-39,                    5 of 35                ,0:13,23:36
+10,11,131,                    LUCY COHEN                ,F,36,PORTLAND,OR,23:25,7:32,                    4 of 88                ,F 21-39,                    3 of 32                ,3:10,26:35
+11,12,282,                    RYAN PALMER                ,M,33,,,23:29,7:34,                    8 of 63                ,M 21-39,                    6 of 35                ,0:06,23:35
+12,13,229,                    WALTER SHERRY                ,M,24,PORTLAND,OR,23:31,7:35,                    9 of 63                ,M 21-39,                    7 of 35                ,0:11,23:42
+13,14,134,                    ROBERTO DIRCIO                ,M,31,PORTLAND,,23:46,7:39,                    10 of 63                ,M 21-39,                    8 of 35                ,0:08,23:54
+14,15,284,                    CRAIG KEEFER                ,M,57,PHILADELPHIA,PA,23:46,7:39,                    11 of 63                ,M 55+,                    2 of 11                ,0:16,24:02
+15,16,119,                    ANDREW BRAMSKE                ,M,40,PORTLAND,OR,23:53,7:41,                    12 of 63                ,M 40-54,                    1 of 11                ,0:11,24:04
+16,17,222,                    SERGIO RIVERA                ,M,35,PORTLAND,OR,24:05,7:45,                    13 of 63                ,M 21-39,                    9 of 35                ,0:08,24:13
+17,18,120,                    DAN BRAMSKE                ,M,36,PORTLAND,OR,24:18,7:50,                    14 of 63                ,M 21-39,                    10 of 35                ,0:13,24:31
+18,19,280,                    MATT RUBIC                ,M,26,WILSONVILLE,OR,24:52,8:01,                    15 of 63                ,M 21-39,                    11 of 35                ,0:08,25:00
+19,20,101,                    OLIVE AIGUIER                ,F,12,PORTLAND,OR,25:03,8:04,                    5 of 88                ,F 20 and Under,                    1 of 5                ,0:20,25:23
+20,21,102,                    STEPHEN AIGUIER                ,M,45,PORTLAND,OR,25:03,8:04,                    16 of 63                ,M 40-54,                    2 of 11                ,0:20,25:23
+21,22,291,                    ERIN HERNANDEY                ,F,40,PORTLAND,,25:04,8:04,                    6 of 88                ,F 40-54,                    2 of 31                ,1:55,26:59
+22,23,139,                    LAKAYANA DRURY                ,M,32,PORTLAND,OR,25:04,8:04,                    17 of 63                ,M 21-39,                    12 of 35                ,0:04,25:08
+23,24,281,                    ADAM RUBIC                ,M,23,WILSONVILLE,OR,25:06,8:05,                    18 of 63                ,M 21-39,                    13 of 35                ,0:09,25:15
+24,25,247,                    KEVIN TINNELL                ,M,34,PORTLAND,OR,25:24,8:11,                    19 of 63                ,M 21-39,                    14 of 35                ,0:08,25:32
+25,26,107,                    KELLY BAKER                ,F,45,PORTLAND,OR,25:26,8:12,                    7 of 88                ,F 40-54,                    3 of 31                ,0:21,25:47
+26,27,195,                    RUMEL MONK                ,M,38,PORTLAND,OR,25:49,8:19,                    20 of 63                ,M 21-39,                    15 of 35                ,0:07,25:56
+27,28,554,                    AMY NAGY                ,F,41,PORTLAND,OR,26:30,8:32,                    8 of 88                ,F 40-54,                    4 of 31                ,0:06,26:36
+28,29,154,                    JAIR GARCIA                ,M,36,PORTLAND,OR,26:31,8:33,                    21 of 63                ,M 21-39,                    16 of 35                ,0:11,26:42
+29,30,153,                    ALYSSA FUJI                ,F,25,TUALATIN,OR,26:42,8:36,                    9 of 88                ,F 21-39,                    4 of 32                ,0:09,26:51
+30,31,214,                    MELISSA PARRAS                ,F,43,PORTLAND,OR,27:21,8:49,                    10 of 88                ,F 40-54,                    5 of 31                ,0:06,27:27
+31,32,257,                    MOLLY (MARY) WALLACE                ,F,43,PORTLAND,OR,27:38,8:54,                    11 of 88                ,F 40-54,                    6 of 31                ,3:59,31:37
+32,33,150,                    BJ FROGOZO                ,M,37,PORTLAND,OR,27:46,8:57,                    22 of 63                ,M 21-39,                    17 of 35                ,0:05,27:51
+33,34,241,                    PAUL SUMMERS                ,M,27,INDIANAPOLIS,IN,27:57,9:00,                    23 of 63                ,M 21-39,                    18 of 35                ,0:06,28:03
+34,35,285,                    STEPHANIE HASLETT                ,F,33,,,28:04,9:03,                    12 of 88                ,F 21-39,                    5 of 32                ,0:11,28:15
+35,36,189,                    DEON MCMANUS                ,F,40,PORTLAND,OR,28:05,9:03,                    13 of 88                ,F 40-54,                    7 of 31                ,0:10,28:15
+36,37,158,                    DANIELLE HADLER                ,F,32,PORTLAND,OR,28:06,9:03,                    14 of 88                ,F 21-39,                    6 of 32                ,0:07,28:13
+37,38,144,                    DARRIEN ELISON                ,M,33,VANCOUVER,WA,28:09,9:04,                    24 of 63                ,M 21-39,                    19 of 35                ,0:08,28:17
+38,39,256,                    KIMBERLY WALDREP                ,F,53,PORTLAND,OR,28:17,9:07,                    15 of 88                ,F 40-54,                    8 of 31                ,0:06,28:23
+39,40,157,                    DAVID GUILE                ,M,70,KEIZER,OR,28:52,9:18,                    25 of 63                ,M 55+,                    3 of 11                ,1:24,30:16
+40,41,145,                    CHANTEL FIORANTE                ,F,34,OREGON CITY,OR,29:14,9:25,                    16 of 88                ,F 21-39,                    7 of 32                ,0:24,29:38
+41,42,129,                    TREVOR CHOWEN                ,M,46,VANCOUVER,WA,29:27,9:29,                    26 of 63                ,M 40-54,                    3 of 11                ,0:23,29:50
+42,43,128,                    KEATT CHOWEN                ,F,15,VANCOUVER,WA,29:28,9:30,                    17 of 88                ,F 20 and Under,                    2 of 5                ,0:22,29:50
+43,44,151,                    KITTA FROST                ,F,62,LAKE OSWEGO,OR,29:35,9:32,                    18 of 88                ,F 55+,                    1 of 18                ,3:42,33:17
+44,45,209,                    JAYLEN NICKERSON                ,M,14,PORTLAND,OR,29:36,9:32,                    27 of 63                ,M 20 and Under,                    2 of 5                ,0:09,29:45
+45,46,149,                    ANNELISE FRIAR                ,F,29,PORTLAND,OR,29:36,9:32,                    19 of 88                ,F 21-39,                    8 of 32                ,3:40,33:16
+46,47,111,                    KAURINE BASSETT                ,F,31,PORTLAND,OR,29:39,9:33,                    20 of 88                ,F 21-39,                    9 of 32                ,0:16,29:55
+47,48,118,                    AMANDA BOYD                ,F,29,TIGARD,OR,29:56,9:39,                    21 of 88                ,F 21-39,                    10 of 32                ,0:05,30:01
+48,49,168,                    MAXINE JENNINGS                ,F,55,HILLSBORO,OR,30:02,9:41,                    22 of 88                ,F 55+,                    2 of 18                ,0:13,30:15
+49,50,159,                    JONATHAN HANISITS                ,M,37,PORTLAND,OR,30:18,9:46,                    28 of 63                ,M 21-39,                    20 of 35                ,0:12,30:30
+50,51,560,                    AARON WRIGHT                ,M,35,PORTLAND,WA,31:19,10:05,                    29 of 63                ,M 21-39,                    21 of 35                ,0:15,31:34
+51,52,137,                    JOSH DOERING                ,M,26,PORTLAND,OR,31:26,10:08,                    30 of 63                ,M 21-39,                    22 of 35                ,0:11,31:37
+52,53,249,                    JUSTIN TOLLIVER                ,M,41,PORTLAND,OR,31:28,10:08,                    31 of 63                ,M 40-54,                    4 of 11                ,0:00,31:28
+53,54,213,                    TERRI PARMELEE                ,F,63,PORTLAND,OR,31:46,10:14,                    23 of 88                ,F 55+,                    3 of 18                ,0:34,32:20
+54,55,190,                    LAURA MCNEEL                ,F,55,PORTLAND,OR,31:49,10:15,                    24 of 88                ,F 55+,                    4 of 18                ,0:34,32:23
+55,56,251,                    MOE VALDIVIA                ,M,37,PORTLAND,OR,32:18,10:24,                    32 of 63                ,M 21-39,                    23 of 35                ,0:13,32:31
+56,57,115,                    JULIE BLACK                ,F,55,PORTLAND,OR,32:18,10:24,                    25 of 88                ,F 55+,                    5 of 18                ,0:12,32:30
+57,58,136,                    ELIANA DOERING                ,F,25,PORTLAND,OR,32:58,10:37,                    26 of 88                ,F 21-39,                    11 of 32                ,0:12,33:10
+58,59,250,                    ANGIE TOMLINSON                ,F,50,PORTLAND,OR,33:03,10:39,                    27 of 88                ,F 40-54,                    9 of 31                ,1:32,34:35
+59,60,191,                    JONAS MERRILL                ,M,39,PORTLAND,OR,33:30,10:48,                    33 of 63                ,M 21-39,                    24 of 35                ,0:19,33:49
+60,61,236,                    DAVID SNYDER                ,M,66,PORTLAND,OR,33:38,10:50,                    34 of 63                ,M 55+,                    4 of 11                ,0:15,33:53
+61,62,192,                    BRIANNA MILLER                ,F,28,PORTLAND,OR,33:43,10:52,                    28 of 88                ,F 21-39,                    12 of 32                ,0:10,33:53
+62,63,184,                    BRIAN MARTINEZ                ,M,52,PORTLAND,OR,34:18,11:03,                    35 of 63                ,M 40-54,                    5 of 11                ,0:34,34:52
+63,64,193,                    JEREMY MILLER                ,M,45,PORTLAND,OR,34:21,11:04,                    36 of 63                ,M 40-54,                    6 of 11                ,0:18,34:39
+64,65,244,                    KRISTA TAPPAN                ,F,42,PORTLAND,OR,35:12,11:21,                    29 of 88                ,F 40-54,                    10 of 31                ,0:11,35:23
+65,66,243,                    LISA TAMURA                ,F,40,PORTLAND,OR,35:14,11:21,                    30 of 88                ,F 40-54,                    11 of 31                ,0:10,35:24
+66,67,112,                    ALLIX BAYER                ,F,34,PORTLAND,OR,35:21,11:24,                    31 of 88                ,F 21-39,                    13 of 32                ,0:09,35:30
+67,68,167,                    ANGELICA JACKSON                ,F,42,PORTLAND,OR,35:23,11:24,                    32 of 88                ,F 40-54,                    12 of 31                ,0:07,35:30
+68,69,221,                    QUINN RIVENBURGH                ,N,33,PORTLAND,OR,35:59,11:36,                    1 of 2                ,,                    1 of 5                ,0:10,36:09
+69,70,233,                    SAM SKYE                ,M,34,PORTLAND,OR,35:59,11:36,                    37 of 63                ,M 21-39,                    25 of 35                ,0:10,36:09
+70,71,126,                    JENNIFER CASTILLO                ,F,40,DENVER,CO,36:35,11:47,                    33 of 88                ,F 40-54,                    13 of 31                ,0:00,36:35
+71,72,216,                    GEORGANN PIERCE                ,F,59,PORTLAND,OR,36:41,11:49,                    34 of 88                ,F 55+,                    6 of 18                ,0:06,36:47
+72,73,211,                    NICASIA O'NEAL                ,F,35,PORTLAND,OR,36:41,11:49,                    35 of 88                ,F 21-39,                    14 of 32                ,0:14,36:55
+73,74,116,                    AMBER BOWIE                ,F,33,PORTLAND,OR,36:41,11:49,                    36 of 88                ,F 21-39,                    15 of 32                ,0:14,36:55
+74,75,138,                    LAURA DONNELLEY                ,F,65,PORTLAND,OR,37:02,11:56,                    37 of 88                ,F 55+,                    7 of 18                ,0:18,37:20
+75,76,228,                    EDWIN SHAHRAVAN                ,M,27,BEAVERTON,OR,37:19,12:02,                    38 of 63                ,M 21-39,                    26 of 35                ,0:35,37:54
+76,77,203,                    AUSTIN MORGAN                ,M,26,PORTLAND,OR,37:52,12:12,                    39 of 63                ,M 21-39,                    27 of 35                ,0:29,38:21
+77,78,204,                    LINDSEY MORGAN                ,F,26,PORTLAND,OR,37:53,12:12,                    38 of 88                ,F 21-39,                    16 of 32                ,0:28,38:21
+78,79,212,                    JESSICA PALACIOS                ,F,26,BEAVERTON,OR,38:01,12:15,                    39 of 88                ,F 21-39,                    17 of 32                ,0:36,38:38
+79,80,186,                    DONTAE MATHIS                ,M,44,PORTLAND,OR,38:09,12:18,                    40 of 63                ,M 40-54,                    7 of 11                ,2:17,40:26
+80,81,156,                    MEGAN GREENAUER                ,N,45,PORTLAND,OR,38:26,12:23,                    2 of 2                ,,                    2 of 5                ,0:33,38:59
+81,82,176,                    NAT KIM                ,F,41,PORTLAND,OR,38:34,12:26,                    40 of 88                ,F 40-54,                    14 of 31                ,0:41,39:15
+82,83,165,                    STEPHANIE HERTZOG                ,F,54,PORTLAND,OR,38:48,12:30,                    41 of 88                ,F 40-54,                    15 of 31                ,0:18,39:06
+83,84,552,                    BRITNEY LIVINGSTON                ,F,,,,38:50,12:31,                    42 of 88                ,,                    3 of 5                ,0:04,38:54
+84,85,172,                    JAY JONES                ,M,49,DAMASCUS,OR,38:50,12:31,                    41 of 63                ,M 40-54,                    8 of 11                ,0:05,38:55
+85,86,183,                    PETER MADAUS                ,M,38,PORTLAND,OR,38:56,12:33,                    42 of 63                ,M 21-39,                    28 of 35                ,0:16,39:12
+86,87,124,                    JULES CAMARILLO-DAVIS                ,M,40,PORTLAND,OR,41:00,13:13,                    43 of 63                ,M 40-54,                    9 of 11                ,4:14,45:14
+87,88,205,                    JESSICA MORRIS                ,F,36,PORTLAND,OR,41:00,13:13,                    43 of 88                ,F 21-39,                    18 of 32                ,4:14,45:14
+88,89,261,                    PAUL WHITE                ,M,56,PORTLAND,OR,41:20,13:19,                    44 of 63                ,M 55+,                    5 of 11                ,0:30,41:50
+89,90,208,                    CHERâ€™E NICKERSON                ,F,40,PORTLAND,OR,42:28,13:41,                    44 of 88                ,F 40-54,                    16 of 31                ,0:10,42:38
+90,91,218,                    SAM RACHAL                ,M,57,ALOHA,OR,43:03,13:53,                    45 of 63                ,M 55+,                    6 of 11                ,0:27,43:30
+91,92,110,                    JEANINE BASSETT                ,F,67,PORTLAND,OR,44:23,14:18,                    45 of 88                ,F 55+,                    8 of 18                ,0:29,44:52
+92,93,207,                    KYLE NEWELL                ,M,60,PORTLAND,OR,44:45,14:26,                    46 of 63                ,M 55+,                    7 of 11                ,0:28,45:13
+93,94,279,                    RHONDA SATER                ,F,70,PORTLAND,OR,45:07,14:33,                    46 of 88                ,F 55+,                    9 of 18                ,0:17,45:24
+94,95,544,                    TIM PITTMAN                ,M,54,PORTLAND,OR,45:14,14:35,                    47 of 63                ,M 40-54,                    10 of 11                ,0:11,45:25
+95,96,166,                    AMY HONEYMAN                ,F,48,PORTLAND,OR,45:18,14:36,                    47 of 88                ,F 40-54,                    17 of 31                ,0:24,45:42
+96,97,140,                    ERICA DUNN                ,F,46,PORTLAND,OR,45:25,14:38,                    48 of 88                ,F 40-54,                    18 of 31                ,0:22,45:47
+97,98,133,                    TATIANA DIERWECHTER                ,F,56,PORTLAND,OR,46:20,14:56,                    49 of 88                ,F 55+,                    10 of 18                ,0:17,46:37
+98,99,161,                    KAMARI HARLEY                ,F,28,PORTLAND,,47:33,15:20,                    50 of 88                ,F 21-39,                    19 of 32                ,0:40,48:13
+99,100,259,                    REENEE WASHINGTON                ,F,44,VANCOUVER,WA,47:55,15:27,                    51 of 88                ,F 40-54,                    19 of 31                ,0:09,48:04
+100,101,182,                    EBONY LEA                ,F,46,BEAVERTON,OR,47:56,15:27,                    52 of 88                ,F 40-54,                    20 of 31                ,0:08,48:04
+101,102,146,                    NICK FIORANTE                ,M,33,OREGON CITY,OR,49:39,16:00,                    48 of 63                ,M 21-39,                    29 of 35                ,0:31,50:10
+102,103,117,                    TRACY BOWLES                ,F,41,PORTLAND,OR,49:44,16:02,                    53 of 88                ,F 40-54,                    21 of 31                ,0:32,50:16
+103,104,246,                    JILL TIMSHEL                ,F,42,VANCOUVER,WA,49:45,16:02,                    54 of 88                ,F 40-54,                    22 of 31                ,0:31,50:16
+104,105,177,                    GUS KING                ,M,10,PORTLAND,OR,49:56,16:06,                    49 of 63                ,M 20 and Under,                    3 of 5                ,0:32,50:28
+105,106,255,                    CHRISTINE VELASQUEZ                ,F,49,PORTLAND,OR,50:28,16:16,                    55 of 88                ,F 40-54,                    23 of 31                ,0:07,50:35
+106,107,276,                    RABERTT MACALANDA                ,F,13,PORTLAND,OR,51:06,16:28,                    56 of 88                ,F 20 and Under,                    3 of 5                ,0:17,51:23
+107,108,178,                    JUNIE KING                ,M,7,PORTLAND,OR,51:13,16:30,                    50 of 63                ,M 20 and Under,                    4 of 5                ,0:35,51:48
+108,109,180,                    MITZY KING                ,F,46,PORTLAND,OR,51:14,16:31,                    57 of 88                ,F 40-54,                    24 of 31                ,0:34,51:48
+109,110,179,                    MATT KING                ,M,35,PORTLAND,OR,51:15,16:31,                    51 of 63                ,M 21-39,                    30 of 35                ,0:33,51:48
+110,111,275,                    ZURI KELLEY                ,F,10,,,51:53,16:44,                    58 of 88                ,F 20 and Under,                    4 of 5                ,0:30,52:23
+111,112,274,                    MICHELLE KELLEY                ,F,46,PORTLAND,OR,52:00,16:46,                    59 of 88                ,F 40-54,                    25 of 31                ,0:29,52:29
+112,113,277,                    JOHN CARVO                ,M,,PORTLAND,OR,52:56,17:04,                    52 of 63                ,,                    4 of 5                ,0:16,53:12
+113,114,273,                    ROWENA MACALANDA                ,F,39,SALEM,OR,52:58,17:04,                    60 of 88                ,F 21-39,                    20 of 32                ,0:15,53:13
+114,115,135,                    VY DO                ,F,30,PORTLAND,OR,53:33,17:16,                    61 of 88                ,F 21-39,                    21 of 32                ,0:38,54:11
+115,116,194,                    DEANGELO MOANING                ,M,29,PORTLAND,OR,53:33,17:16,                    53 of 63                ,M 21-39,                    31 of 35                ,0:38,54:11
+116,117,198,                    JEFF MORELAND                ,M,55,PORTLAND,OR,53:52,17:22,                    54 of 63                ,M 55+,                    8 of 11                ,0:27,54:19
+117,118,200,                    LAURIE MORELAND                ,F,51,PORTLAND,OR,53:52,17:22,                    62 of 88                ,F 40-54,                    26 of 31                ,0:27,54:19
+118,119,122,                    JAMES BRYANT                ,M,29,HILLSBORO,OR,54:29,17:34,                    55 of 63                ,M 21-39,                    32 of 35                ,0:13,54:42
+119,120,267,                    SAMANTHA WRAST                ,F,25,PORTLAND,OR,54:36,17:36,                    63 of 88                ,F 21-39,                    22 of 32                ,0:13,54:49
+120,121,289,                    MEERA BOWMAN JOHNSON                ,F,49,,,55:00,17:44,                    64 of 88                ,F 40-54,                    27 of 31                ,0:41,55:41
+121,122,290,                    AYANA HORN                ,F,,,,55:03,17:45,                    65 of 88                ,,                    5 of 5                ,0:43,55:46
+122,123,266,                    VANESSA WOOD                ,F,44,PORTLAND,OR,55:09,17:47,                    66 of 88                ,F 40-54,                    28 of 31                ,0:58,56:07
+123,124,292,                    KAMAU ROGERS                ,M,63,,,55:18,17:50,                    56 of 63                ,M 55+,                    9 of 11                ,0:31,55:49
+124,125,125,                    CLARE CARNEY                ,F,29,PORTLAND,OR,55:29,17:53,                    67 of 88                ,F 21-39,                    23 of 32                ,0:22,55:51
+125,126,106,                    MARICELA AVILES                ,F,28,PORTLAND,OR,55:29,17:53,                    68 of 88                ,F 21-39,                    24 of 32                ,0:23,55:52
+126,127,265,                    MOLLY WILSON                ,F,38,PORTLAND,OR,55:30,17:54,                    69 of 88                ,F 21-39,                    25 of 32                ,0:23,55:53
+127,128,123,                    MICHAEL BRYANT                ,M,63,PORTLAND,OR,56:12,18:07,                    57 of 63                ,M 55+,                    10 of 11                ,1:37,57:49
+128,129,260,                    TRACEE WELLS-BRYANT                ,F,67,PORTLAND,OR,57:34,18:34,                    70 of 88                ,F 55+,                    11 of 18                ,0:00,57:34
+129,130,231,                    LAURIE SIMPSON                ,F,57,PORTLAND,OR,58:03,18:43,                    71 of 88                ,F 55+,                    12 of 18                ,0:00,58:03
+130,131,232,                    SOPHIA SIMPSON                ,F,17,PORTLAND,OR,58:03,18:43,                    72 of 88                ,F 20 and Under,                    5 of 5                ,0:00,58:03
+131,132,147,                    KATE FIOURCCI                ,F,38,PORTLAND,OR,1:00:14,19:25,                    73 of 88                ,F 21-39,                    26 of 32                ,0:24,1:00:38
+132,133,164,                    REBECCA HEILIG                ,F,39,PORTLAND,OR,1:00:18,19:27,                    74 of 88                ,F 21-39,                    27 of 32                ,0:25,1:00:43
+133,134,226,                    MIKE SERRITELLA                ,M,35,PORTLAND,OR,1:03:37,20:30,                    58 of 63                ,M 21-39,                    33 of 35                ,0:27,1:04:04
+134,135,3530,                    KELLY SERRITELLA                ,F,56,PORTLAND,OR,1:03:42,20:32,                    75 of 88                ,F 55+,                    13 of 18                ,0:27,1:04:09
+135,136,196,                    ABRIANA MORELAND                ,F,27,PORTLAND,OR,1:03:56,20:37,                    76 of 88                ,F 21-39,                    28 of 32                ,0:00,1:03:56
+136,137,202,                    PAUL MORELAND                ,M,28,PORTLAND,OR,1:03:56,20:37,                    59 of 63                ,M 21-39,                    34 of 35                ,0:00,1:03:56
+137,138,141,                    SANTAJ EDWARDS                ,F,40,PORTLANDPORTLAND,OR,1:03:59,20:38,                    77 of 88                ,F 40-54,                    29 of 31                ,0:08,1:04:07
+138,139,270,                    KYNDVA LUVER                ,F,29,,OR,1:04:34,20:49,                    78 of 88                ,F 21-39,                    29 of 32                ,3:02,1:07:36
+139,140,298,                    KELSI ALEXANDER                ,F,34,,,1:04:35,20:49,                    79 of 88                ,F 21-39,                    30 of 32                ,3:01,1:07:36
+140,141,254,                    SUZANNE VEAUDRY CASAUS                ,F,57,PORTLAND,OR,1:05:09,21:00,                    80 of 88                ,F 55+,                    14 of 18                ,0:37,1:05:46
+141,142,253,                    KEVIN VEAUDRY CASAUS                ,M,52,PORTLAND,OR,1:05:09,21:00,                    60 of 63                ,M 40-54,                    11 of 11                ,0:35,1:05:44
+142,143,143,                    DELBAR EHFAD                ,F,26,PORTLAND,OR,1:05:50,21:13,                    81 of 88                ,F 21-39,                    31 of 32                ,0:17,1:06:07
+143,144,268,                    SARAH WRIGHT                ,F,26,PORTLAND,OR,1:05:50,21:14,                    82 of 88                ,F 21-39,                    32 of 32                ,0:18,1:06:08
+144,145,297,                    JEREMIAH ANDERSON                ,M,16,,,1:09:48,22:30,                    61 of 63                ,M 20 and Under,                    5 of 5                ,0:00,1:09:48
+145,146,296,                    MARIAMA PHILLIPS                ,F,49,,WA,1:09:48,22:30,                    83 of 88                ,F 40-54,                    30 of 31                ,0:00,1:09:48
+146,147,113,                    BRIDGET BAYER                ,F,59,PORTLAND,OR,1:28:07,28:25,                    84 of 88                ,F 55+,                    15 of 18                ,0:00,1:28:07
+147,148,227,                    PAMELA SERY                ,F,51,PORTLAND,OR,1:43:07,33:15,                    85 of 88                ,F 40-54,                    31 of 31                ,0:00,1:43:07
+148,149,258,                    KATHY WARE                ,F,67,PORTLAND,OR,1:43:26,33:21,                    86 of 88                ,F 55+,                    16 of 18                ,0:00,1:43:26
+149,150,225,                    WENDY SCHUMER                ,F,66,PORTLAND,OR,1:44:35,33:44,                    87 of 88                ,F 55+,                    17 of 18                ,0:00,1:44:35
+150,151,263,                    PETER WILCOX                ,M,73,PORTLAND,OR,1:45:31,34:01,                    62 of 63                ,M 55+,                    11 of 11                ,0:00,1:45:31
+151,152,175,                    NANCY KELLY                ,F,68,PORTLAND,OR,1:45:54,34:09,                    88 of 88                ,F 55+,                    18 of 18                ,0:00,1:45:54
+152,153,201,                    MICHAEL MORELAND                ,M,31,PORTLAND,OR,2:06:24,40:46,                    63 of 63                ,M 21-39,                    35 of 35                ,0:00,2:06:24
