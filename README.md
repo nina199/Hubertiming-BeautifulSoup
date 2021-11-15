@@ -1,5 +1,4 @@
 # Hubertiming-BeautifulSoup
-Hubertiming
 Za realiziranje ovog projekta, koristila sam Python biblioteku za izvlačenje podataka iz HTML stranice. 
 Često se koristi jer je jednostavan u primjeni i štedi dosta vremena. 
 BeautifulSoup pomaže da izvučemo određeni sadržaj s web-stranice, uklonimo HTML oznaku i spremimo informacije. 
